@@ -1,0 +1,84 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    width: 1535px;
+    height: 690px;
+    background-color: #f5f5f5;
+
+}
+
+.boxContent {
+    position: absolute;
+    width: 420px;
+    height: 500px;
+    margin: 80px 560px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.cssBox {
+    width: 380px;
+    margin: 20px 20px 120px 20px;
+}
+
+h3,
+.logo {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    padding: 0;
+    margin: 0;
+    font-size: 32px;
+
+}
+
+.logo img {
+    width: 120px;
+    height: 120px
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center !important;
+}
+
+input:first-child {
+    margin-top: 20px;
+}
+
+input {
+    margin: 0;
+    width: 320px;
+    height: 25px;
+    margin-bottom: 40px;
+    border: none;
+    border-bottom: 1px solid #333;
+    padding: 5px;
+    outline: none;
+}
+
+button {
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #333;
+}
+
+.navForm a {
+    color: #04aae7;
+}
