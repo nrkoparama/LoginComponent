@@ -1,2 +1,2 @@
 LoginComponent :vvvvvvvvv
-test link : https://nrkoparama.git.io/LoginComponent/
+test link : https://nrkoparama.github.io/LoginComponent/
